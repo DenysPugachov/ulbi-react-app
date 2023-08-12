@@ -7,6 +7,8 @@
     "jsx": "react",
     "allowJs": true,
     "moduleResolution": "node",
+    // for absolute imports
+    "baseUrl": ".",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
   },
