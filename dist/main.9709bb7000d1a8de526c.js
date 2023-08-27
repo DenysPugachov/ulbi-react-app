@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("Test: >> Result printed form test.ts. + webpack decomposition."),document.body.innerHTML="<h2>This text form index.ts ++</h2>"})();
